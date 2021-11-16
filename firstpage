@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="Javascript.js"></script>
+    <title>My Biography</title>
+
+</head>
+
+<body>
+
+
+    <div style="text-align: center;">
+        <a href="https://www.h1.com" target="_blank" style="font-size: 40px;">Nagarathna Details</a>
+
+
+    </div>
+    <div style="text-align: center;">
+        <a href="https://www.h2.com" target="_blank" style="font-size: 40px;">Date of birth</a>
+
+    </div>
+    <div style="text-align: center;">
+        <a href="https://www.h3.com" target="_blank" style="font-size: 40px;">Education details</a>
+    </div>
+    <div style="text-align: center;">
+        <a href="https://wwww.h4.com" target="_blank" style="font-size: 40px;">school details</a>
+    </div>
+    <div style="text-align: center;">
+        <a href="https://www.h5.com" target="_blank" style="font-size: 40px;">college details</a>
+    </div>
+    <div style="text-align: center;">
+        <a href="https://www.h6.com" target="_blank" style="font-size: 40px;">favourite places</a>
+    </div>
+    <img src="images.html/my biography.jpeg" width="1780" height="900">
+</body>
+
+</html>
